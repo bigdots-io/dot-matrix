@@ -1,6 +1,6 @@
 {
   "name": "dot-matrix",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Render a dot matrix grid for the browser",
   "main": "index.js",
   "scripts": {
